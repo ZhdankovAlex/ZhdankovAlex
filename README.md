@@ -19,9 +19,21 @@ It collects vacancies from ATS boards and aggregators, filters them by the full 
 against my CV, tracks applications from Gmail (read-only) and builds a tailored CV and cover letter
 for any vacancy. Python, FastAPI, SSE, a parallel crawler for ~10 kinds of sources with robots.txt and rate limits.
 
-### Stack
+### Skills
 
-Python · FastAPI · PostgreSQL · Redis · SQLite · Docker · Kubernetes · WebSocket · RAG / embeddings · Claude Code
+**Backend:** Python (asyncio) · FastAPI · Flask · Tornado · Pydantic · SQLAlchemy · Celery · pytest · C++
+
+**Architecture:** distributed systems · microservices · event-driven architecture · REST APIs · control-plane / agent architecture
+
+**Data & messaging:** PostgreSQL (logical replication, query optimization, zero-downtime migrations, pgBackRest) · Redis (Pub/Sub, Streams) · Kafka · RabbitMQ · SQLite · S3
+
+**Infrastructure:** Linux · systemd · Docker · Kubernetes (Helm) · CI/CD (GitLab CI, Jenkins, GitHub Actions) · deb/rpm packaging · Bash
+
+**Reliability & security:** observability (Prometheus, Grafana) · fault tolerance · RBAC · encryption (OpenSSL, AES-256)
+
+**AI / LLM:** RAG · embeddings · vector search (ChromaDB, sentence-transformers) · retrieval evaluation (hit@k, MRR) · local LLMs (Ollama)
+
+**AI-assisted engineering:** Claude Code · Windsurf · CLAUDE.md instruction files · pre-commit guardrails for generated code
 
 ### Elsewhere
 
