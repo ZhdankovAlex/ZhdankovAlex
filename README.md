@@ -14,10 +14,10 @@ for banking and enterprise software. Based in Novi Sad, Serbia (CET).
 
 ### Side project
 
-**[job-hunter](https://github.com/ZhdankovAlex/job-hunter)**: a self-hosted job search assistant.
+**[job_hunter](https://github.com/ZhdankovAlex/job_hunter)**: a self-hosted job search assistant.
 It collects vacancies from ATS boards and aggregators, filters them by the full text, ranks them
 against my CV, tracks applications from Gmail (read-only) and builds a tailored CV and cover letter
-for any vacancy. Python, FastAPI, SSE, a ~10-source async-free crawler with robots.txt and rate limits.
+for any vacancy. Python, FastAPI, SSE, a parallel crawler for ~10 kinds of sources with robots.txt and rate limits.
 
 ### Stack
 
