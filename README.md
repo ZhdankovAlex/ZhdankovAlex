@@ -28,8 +28,7 @@ Backend engineer with 6 years of Python and PostgreSQL in banking and enterprise
 
 - 💼 [**job_hunter**](https://github.com/ZhdankovAlex/job_hunter) — self-hosted job search assistant with a local web UI.
   Collects vacancies from ATS boards and aggregators, filters them by the full text, ranks them against your CV,
-  tracks applications from Gmail (read-only) and builds a tailored CV and cover letter for any vacancy.<br>
-  Python · FastAPI · SSE · a polite parallel crawler (robots.txt, 1 req/s per host) · 160 tests in CI.
+  tracks applications from Gmail (read-only) and builds a tailored CV and cover letter for any vacancy.
 
 ## 🧰 What I work with
 
