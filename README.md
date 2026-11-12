@@ -29,6 +29,9 @@ Backend engineer with 6 years of Python and PostgreSQL in banking and enterprise
 - 💼 [**job_hunter**](https://github.com/ZhdankovAlex/job_hunter) — self-hosted job search assistant with a local web UI.
   Collects vacancies from ATS boards and aggregators, filters them by the full text, ranks them against your CV,
   tracks applications from Gmail (read-only) and builds a tailored CV and cover letter for any vacancy.
+- 📖 [**rag-from-scratch**](https://github.com/ZhdankovAlex/rag-from-scratch) — RAG over technical docs built without frameworks:
+  structure-aware chunking, multilingual-e5 embeddings, incremental ChromaDB index, answers from a local LLM (Ollama)
+  with citations, retrieval eval on a held-out set (test hit@3 100%, MRR 0.89) and a local web UI.
 
 ## 🧰 What I work with
 
