@@ -32,6 +32,10 @@ Backend engineer with 6 years of Python and PostgreSQL in banking and enterprise
 - 📖 [**rag-from-scratch**](https://github.com/ZhdankovAlex/rag-from-scratch) — RAG over technical docs built without frameworks:
   structure-aware chunking, multilingual-e5 embeddings, incremental ChromaDB index, answers from a local LLM (Ollama)
   with citations, retrieval eval on a held-out set (test hit@3 100%, MRR 0.89) and a local web UI.
+- 🐘 [**web-psql**](https://github.com/ZhdankovAlex/web-psql) — PostgreSQL sandbox in the browser: a real psql in a pseudo-terminal,
+  streamed over WebSocket and Redis Streams. Every tab gets its own copy of the demo database in ~50 ms, so you can drop
+  anything and start over. Restricted per-session roles, reconnect without losing output, measured bottlenecks, and CI
+  that runs tests against the full Docker Compose stack.
 
 ## 🧰 What I work with
 
