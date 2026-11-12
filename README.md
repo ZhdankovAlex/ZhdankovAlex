@@ -74,6 +74,3 @@ Backend engineer with 6 years of Python and PostgreSQL in banking and enterprise
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=flat-square)
-
-Also: distributed systems · event-driven architecture · REST APIs · PostgreSQL logical replication and
-zero-downtime migrations · RBAC · encryption (OpenSSL, AES-256) · retrieval evaluation (hit@k, MRR)
